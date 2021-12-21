@@ -14,3 +14,12 @@ Run
 -----
 
     $ rebar3 shell
+
+#Notes
+
+In wsl ubuntu terminal:
+- Add to $PATH for use: export PATH=$PATH:~/.cache/rebar3/bin
+- rebar3 compile
+- rebar3 shell
+
+To input and test numbers -> insert in lines 26 & 27 or create new lines copying these two examples
