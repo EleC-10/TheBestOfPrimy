@@ -1,6 +1,4 @@
-# ElenaTatiana
-Primy
-# Primy project
+# Elena Cascavilla and Tatiana Effner - Primy project
 
 Description
 -----
