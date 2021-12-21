@@ -15,7 +15,8 @@ Run
 
     $ rebar3 shell
 
-#Notes
+Notes
+------
 
 In wsl ubuntu terminal:
 - Add to $PATH for use: export PATH=$PATH:~/.cache/rebar3/bin
